@@ -1,1 +1,9 @@
-body {font-family: Impact};
+.heading
+{
+    background-color: red;
+}
+
+body
+{
+    font-family: Impact;
+}
